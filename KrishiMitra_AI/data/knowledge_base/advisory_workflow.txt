@@ -1,0 +1,7 @@
+How to prepare a useful crop advisory request
+
+A useful request should include the crop name and variety if known, district and village or broad area, crop age or growth stage, symptoms and when they started, percentage or area of field affected, recent rainfall and irrigation, soil type if known, recent fertilizer or pesticide use, and clear photographs if available. Do not include personal identity numbers or bank details.
+
+For possible plant disease or pest issues, inspect multiple plants across the field rather than only one plant. Note whether symptoms are spreading and whether they appear in patches or uniformly. Keep a record of observations. If the crop is rapidly deteriorating, contact a local KVK, agriculture extension officer or qualified plant-health professional promptly.
+
+An AI advisory tool can help organize observations and explain general information. It cannot reliably confirm a diagnosis from text alone, inspect the actual field, know local conditions without verified data, or replace an in-person expert.
